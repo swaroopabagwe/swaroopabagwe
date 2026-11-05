@@ -1,64 +1,82 @@
+# Hi, I'm Swaroopa Bagwe 👋
 
-# Hi, I'm Swara Bagwe 👋
+### Aspiring Data Analyst | B.Sc. Computer Science Graduate
 
 🎓 B.Sc. Computer Science Graduate (2026)  
-📊 Aspiring Data Analyst
+📊 Currently pursuing a Data Analytics course  
+💡 Passionate about turning data into meaningful insights
 
-I'm passionate about data analysis, visualization, and transforming raw data into meaningful insights. I enjoy exploring datasets, identifying patterns, and solving real-world problems using data.
+I am an aspiring Data Analyst with a strong interest in data-driven problem-solving, business intelligence, and data visualization. I enjoy working with datasets, uncovering patterns, and transforming raw data into actionable insights that support informed decision-making.
+
+I am continuously developing my technical skills and building practical projects to strengthen my analytical and problem-solving abilities.
+
+---
 
 ## 🚀 About Me
 
-- 🎓 Completed B.Sc. Computer Science in 2026
+- 🎓 Completed B.Sc. in Computer Science in 2026
 - 📚 Currently pursuing a Data Analytics course
-- 📊 Interested in Data Analysis and Business Intelligence
-- 🌱 Currently learning Python, SQL, Excel, and Power BI
-- 🎯 Goal: To become a skilled Data Analyst
+- 📊 Interested in Data Analysis, Business Intelligence, and Data Visualization
+- 🌱 Learning and practicing Python, SQL, Excel, and Power BI
+- 🔍 Exploring data cleaning, exploratory data analysis, and statistical techniques
+- 🎯 Career goal: To become a skilled Data Analyst and contribute to data-driven business decisions
 
-## 🛠️ Skills & Technologies
+---
 
-### Programming & Data Analysis
+## 🛠️ Technical Skills
+
+**Programming & Data Analysis**
 - Python
 - SQL
 - Pandas
 - NumPy
 
-### Data Visualization
+**Data Visualization**
+- Power BI
 - Matplotlib
 - Seaborn
-- Power BI
 
-### Tools
+**Tools & Platforms**
 - Microsoft Excel
 - Jupyter Notebook
+- MySQL
 - Git & GitHub
-- VS Code
+- Visual Studio Code
+
+---
 
 ## 📂 Projects
 
 | Project | Description | Tools |
 |---|---|---|
-| Sales Data Analysis | Analyze sales trends and business performance | Python, Pandas |
-| Exploratory Data Analysis | Explore datasets and discover insights | Python, Seaborn |
-| SQL Data Analysis | Analyze data using SQL queries | SQL |
-| Power BI Dashboard | Create interactive business dashboards | Power BI |
+| Sales Data Analysis | Analyze sales performance, trends, and business insights | Python, Pandas |
+| Exploratory Data Analysis | Explore datasets, identify patterns, and visualize insights | Python, Pandas, Seaborn |
+| SQL Data Analysis | Extract and analyze data using SQL queries | SQL, MySQL |
+| Power BI Dashboard | Develop interactive dashboards to visualize key business metrics | Power BI |
 
-*Project links will be added as I complete and upload my projects.*
+*More projects and portfolio work will be added as I continue learning and building.*
 
-## 📈 Currently Learning
+---
+
+## 📚 Currently Learning
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - SQL Queries and Database Management
-- Data Visualization
-- Business Intelligence
+- Data Visualization and Dashboard Development
 - Statistical Analysis
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [swaroopabagwe](https://github.com/swaroopabagwe)
-- 📧 Email: YOUR_EMAIL
+- Business Intelligence and Reporting
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- 🐙 **GitHub:** [swaroopabagwe](https://github.com/swaroopabagwe)
+- 📧 **Email:** YOUR_EMAIL
+
+---
+
+⭐ Thank you for visiting my profile!
+
+*Always learning, exploring data, and growing as an aspiring Data Analyst.*
